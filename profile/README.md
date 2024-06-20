@@ -5,6 +5,10 @@
 
 ![mosaicnow](https://github.com/EwhaEmoji27/.github/assets/113421649/2f59d92c-5708-4917-a32a-a775fca531f0)
 <br><br>
+## 서비스 소개
+[MosaicNow 소개.pdf](https://github.com/user-attachments/files/15912406/27-E.pdf)
+
+<br><br>
 ## TEAM Member
 
 
