@@ -5,6 +5,6 @@
 
 |  ![User Icon](https://img.icons8.com/fluency/16/000000/user-male-circle.png) 이름       | ![Developer Icon](https://img.icons8.com/fluency/16/000000/source-code.png) 역할          | ![Email Icon](https://img.icons8.com/fluency/16/000000/email-open.png) 이메일                                   | ![GitHub Icon](https://img.icons8.com/fluency/16/000000/github.png) 깃허브 주소                           |
 |------------|---------------|------------------------------------------|----------------------------------------|
-| 정유라 |  2222 |  111111 |[yoshii](https://github.com/yooksj13)  |
-|  이가은 |  222 |  11111111 |  [HyejinYoo](https://github.com/HyejinYoo) |
-|  유혜진 |  222 |  11111111111 | [HyejinYoo](https://github.com/HyejinYoo)|
+| 정유라 | 웹 서버 | yoora488@gmail.com |[yoshii](https://github.com/yooksj13) |
+|  이가은 | 웹 프론트엔드 | 11111111 |  [HyejinYoo](https://github.com/HyejinYoo) |
+|  유혜진 | AI 서버 | yyyhj@gmail.com | [HyejinYoo](https://github.com/HyejinYoo) |
