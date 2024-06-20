@@ -8,3 +8,6 @@
 | 정유라 | 웹 서버 | yoora488@gmail.com |[yoshii](https://github.com/yooksj13) |
 |  이가은 | 웹 프론트엔드 | 2076283@ewhain.net |  [gaeun0nueag](https://github.com/gaeun0nueag) |
 |  유혜진 | AI 서버 | yyyhj@gmail.com | [HyejinYoo](https://github.com/HyejinYoo) |
+
+
+[Example Repository](https://github.com/EwhaEmoji27/MosaicNow)
