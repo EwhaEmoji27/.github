@@ -10,4 +10,4 @@
 |  유혜진 | AI 서버 | yyyhj@gmail.com | [HyejinYoo](https://github.com/HyejinYoo) |
 
 
-[Example Repository](https://github.com/EwhaEmoji27/MosaicNow)
+
