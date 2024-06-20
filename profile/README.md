@@ -4,8 +4,8 @@
 
 ## TEAM Member
 
-| 이름       | 역할          | 이메일                                   | 깃허브 주소                           |
+|  ![User Icon](https://img.icons8.com/fluency/16/000000/user-male-circle.png) 이름       | ![Developer Icon](https://img.icons8.com/fluency/16/000000/source-code.png) 역할          | ![Email Icon](https://img.icons8.com/fluency/16/000000/email-open.png) 이메일                                   | ![GitHub Icon](https://img.icons8.com/fluency/16/000000/github.png) 깃허브 주소                           |
 |------------|---------------|------------------------------------------|----------------------------------------|
-| ![User Icon](https://img.icons8.com/ios-filled/16/000000/user.png) 정유라 | ![Manager Icon](https://img.icons8.com/ios-filled/16/000000/manager.png) 2222 | ![Email Icon](https://img.icons8.com/ios-filled/16/000000/email.png) 111111 | ![GitHub Icon](https://img.icons8.com/ios-glyphs/16/000000/github.png) [github.com/hong](https://github.com/hong) |
-| ![User Icon](https://img.icons8.com/ios-filled/16/000000/user.png) 이가은 | ![Developer Icon](https://img.icons8.com/ios-filled/16/000000/code.png) 222 | ![Email Icon](https://img.icons8.com/ios-filled/16/000000/email.png) 11111111 | ![GitHub Icon](https://img.icons8.com/ios-glyphs/16/000000/github.png) [github.com/lee](https://github.com/lee) |
-| ![User Icon](https://img.icons8.com/ios-filled/16/000000/user.png) 유혜진 | ![Designer Icon](https://img.icons8.com/ios-filled/16/000000/design.png) 222 | ![Email Icon](https://img.icons8.com/ios-filled/16/000000/email.png) 11111111111 | ![GitHub Icon](https://img.icons8.com/ios-glyphs/16/000000/github.png) [github.com/kim](https://github.com/kim) |
+| 정유라 |  2222 |  111111 |[github.com/hong](https://github.com/hong) |
+|  이가은 |  222 |  11111111 |  [github.com/lee](https://github.com/lee) |
+|  유혜진 |  222 |  11111111111 |  [github.com/kim](https://github.com/kim) |
