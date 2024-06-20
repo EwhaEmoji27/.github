@@ -1,7 +1,8 @@
+
+![mosaicnow](https://github.com/EwhaEmoji27/.github/assets/113421649/2f59d92c-5708-4917-a32a-a775fca531f0)
+<br><br>
 # MOSAICNOW
 공공장소 라이브 방송에서 타인의 초상권 보호를 위한 실시간 안면인식 커스텀 모자이크 방송 보조 서비스 
-<br><br>
-![mosaicnow](https://github.com/EwhaEmoji27/.github/assets/113421649/2f59d92c-5708-4917-a32a-a775fca531f0)
 <br><br>
 ## TEAM Member
 
